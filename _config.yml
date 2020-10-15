@@ -2,7 +2,7 @@
 title:               IDEEAS Lab
 tagline:             'Research and Teaching'
 description:         'Website for IDEEAS Lab'
-url:                 http://ideeaslab.github.io
+url:                 http://ideeaslab.github.io/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
