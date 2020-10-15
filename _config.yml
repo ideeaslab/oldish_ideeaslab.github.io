@@ -4,6 +4,7 @@ tagline:             'Website for IDEEAS'
 description:         'Home of the IDEEAS Lab'
 url:                 http://ideeaslab.github.io/
 baseurl:             http://ideeaslab.github.io/
+gems:                [jekyll-paginate, jekyll-gist]
 paginate:            5
 permalink:           pretty
 
